@@ -1,4 +1,3 @@
-# print ("Content-type: text/html\n\n")
 from flask import Flask, g, url_for, request
 import pymysql
 from flask import Flask, session, render_template,redirect
