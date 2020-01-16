@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 # print ("Content-type: text/html\n\n")
 from flask import Flask, g, url_for, request
 import pymysql
